@@ -34,7 +34,7 @@ The performance on the CASIA NIR-VIS 2.0 dataset after running the above code:
 
 Rank-1 | VR@FAR=0.1% | VR@FAR=0.01%
 :---: | :---: | :---:
-99.8% | 99.8% | 98.9%
+99.9% | 99.8% | 98.9%
 
 ## Citation
 If you use our code for your research, please cite the following paper:
