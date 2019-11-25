@@ -1,6 +1,8 @@
 # Dual Variational Generation for Low Shot HFR
 A [pytorch](https://pytorch.org/) implementation of paper [Dual Variational Generation for Low Shot Heterogeneous Face Recognition](https://arxiv.org/pdf/1903.10203.pdf)
 
+The code was written with [Xiang Wu](https://github.com/AlfredXiangWu).
+
 ## Prerequisites
 - Python 2.7
 - Pytorch 0.4.1 && torchvision 0.2.1 
@@ -30,14 +32,14 @@ sh run_train_lightcnn.sh
 ```
 
 ## Performance
-The performance on the CASIA NIR-VIS 2.0 dataset after running the above codes:
+The performance on the CASIA NIR-VIS 2.0 dataset after running the above code:
 
 Rank-1 | VR@FAR=0.1% | VR@FAR=0.01%
 :---: | :---: | :---:
 99.8% | 99.8% | 98.9%
 
 ## Citation
-If you use our codes for your research, please cite the following paper:
+If you use our code for your research, please cite the following paper:
 ```
 @inproceedings{fu2019dual,
   title={Dual Variational Generation for Low-Shot Heterogeneous Face Recognition},
