@@ -30,7 +30,7 @@ sh run_train_lightcnn.sh
 ```
 
 ## Performance
-The performance on the CASIA NIR-VIS 2.0 dataset after running the above code:
+The performance on the 1-fold of CASIA NIR-VIS 2.0 dataset after running the above code:
 
 Rank-1 | VR@FAR=0.1% | VR@FAR=0.01%
 :---: | :---: | :---:
