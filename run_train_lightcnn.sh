@@ -13,8 +13,8 @@ print_freq=20
 
 num_classes=725
 weights='./pre_train/LightCNN_29Layers_V2_checkpoint.pth.tar'
-img_root='/data1/chaoyou.fu/HFR_Datasets/CASIA_NIR_VIS_align3'
-train_list='/data1/chaoyou.fu/HFR_Datasets/CASIA_NIR_VIS_align3/list_file/train_list_1_revised_flag.txt'
+img_root='path of your dataset'
+train_list='path of your training list'
 
 fake_path='./fake_images'
 fake_num=100000
