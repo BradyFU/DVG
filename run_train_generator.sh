@@ -15,7 +15,7 @@ lambda_mmd=50
 lambda_ip=1000
 lambda_pair=5
 
-ip_model='./pre_train/LightCNN_29Layers_V2_checkpoint.pth.tar'
+ip_model='./LightCNN_29Layers_V2_checkpoint.pth.tar'
 img_root='path of your dataset'
 train_list='path of your training list'
 
