@@ -6,7 +6,7 @@ A [pytorch](https://pytorch.org/) code of paper [Dual Variational Generation for
 - Pytorch 0.4.1 && torchvision 0.2.1 
 
 ## Train the generator
-- Download LightCNN-29 model ([Google Drive](https://drive.google.com/file/d/1Jn6aXtQ84WY-7J3Tpr2_j6sX0ch9yucS/view)) pretrained on the MS-Celeb-1M dataset, and put it in the `pre_train` folder.
+- Download LightCNN-29 model ([Google Drive](https://drive.google.com/file/d/1Jn6aXtQ84WY-7J3Tpr2_j6sX0ch9yucS/view)) pretrained on the MS-Celeb-1M dataset.
 - Train the generator:
 ```
 sh run_train_generator.sh
