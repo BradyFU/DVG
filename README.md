@@ -1,8 +1,6 @@
 # Dual Variational Generation for Low Shot HFR
 A [pytorch](https://pytorch.org/) implementation of paper [Dual Variational Generation for Low Shot Heterogeneous Face Recognition](https://arxiv.org/pdf/1903.10203.pdf)
 
-The codes was written by [Xiang Wu](https://github.com/AlfredXiangWu) and [Chaoyou Fu](https://github.com/BradyFU).
-
 ## Prerequisites
 - Python 2.7
 - Pytorch 0.4.1 && torchvision 0.2.1 
