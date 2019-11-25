@@ -29,3 +29,12 @@ The performance on the CASIA NIR-VIS 2.0 dataset after running the above codes:
 Rank-1 | VR@FAR=0.1% | VR@FAR=0.01%
 :---: | :---: | :---:
 99.8% | 99.8% | 98.9%
+
+## Citation
+<p>If you use our codes for your research, please cite the following paper:</p>
+<pre><code>@inproceedings{fu2019dual,
+  title={Dual Variational Generation for Low-Shot Heterogeneous Face Recognition},
+  author={Fu, Chaoyou and Wu, Xiang and Hu, Yibo and Huang, Huaibo and He, Ran},
+  booktitle={NeurIPS},
+  year={2019}
+}
