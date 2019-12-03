@@ -12,7 +12,7 @@ A [pytorch](https://pytorch.org/) code of paper [Dual Variational Generation for
 sh run_train_generator.sh
 ```
 - Note that this is a simplified version of our original code: <br>
-        1.  The diversity loss and the adversarial loss in the paper are removed. <br>
+        1. The diversity loss and the adversarial loss in the paper are removed. <br>
         2. The distribution alignment loss is replaced by a Maximum Mean Discrepancy (MMD) loss.
 - The generated results during training will be saved in `./results`.
 
