@@ -70,12 +70,14 @@ def main():
 
     train_real_idx, train_fake_idx = image_dataset.get_idx()
     batch_sampler = SeparateBatchSampler(train_real_idx, train_fake_idx, batch_size=args.batch_size, ratio=0.5)
-
+    
+    # real and fake training data
     train_loader = torch.utils.data.DataLoader(
         image_dataset,
         num_workers=args.workers,
         batch_sampler=batch_sampler)
 
+    # real training data
     val_loader = torch.utils.data.DataLoader(
         ImageList(root=args.img_root, fileList=args.train_list),
         batch_size=args.batch_size, shuffle=False,
