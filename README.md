@@ -3,6 +3,7 @@ A [PyTorch](https://pytorch.org/) code of paper [Dual Variational Generation for
 
 ## News
 The extension version of DVG is published in IEEE TPAMI 2021 ([DVG-Face: Dual Variational Generation for Heterogeneous Face Recognition](https://arxiv.org/pdf/2009.09399.pdf)), and its code is released in https://github.com/BradyFU/DVG-Face.
+The newly released extension version has more powerful performances than this version.
 
 ## Prerequisites
 - Python 2.7
