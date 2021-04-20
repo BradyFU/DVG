@@ -1,9 +1,12 @@
 # Dual Variational Generation for Low Shot HFR
-A [pytorch](https://pytorch.org/) code of paper [Dual Variational Generation for Low Shot Heterogeneous Face Recognition](https://arxiv.org/pdf/1903.10203.pdf), written with [Xiang Wu](https://github.com/AlfredXiangWu).
+A [PyTorch](https://pytorch.org/) code of paper [Dual Variational Generation for Low Shot Heterogeneous Face Recognition](https://arxiv.org/pdf/1903.10203.pdf), written with [Xiang Wu](https://github.com/AlfredXiangWu).
+
+## News
+The extension version of DVG is published in IEEE TPAMI 2021, and its code is released in https://github.com/BradyFU/DVG-Face.
 
 ## Prerequisites
 - Python 2.7
-- Pytorch 0.4.1 && torchvision 0.2.1 
+- Pytorch 0.4.1 & torchvision 0.2.1 
 
 ## Train the generator
 - Download LightCNN-29 model ([Google Drive](https://drive.google.com/file/d/1Jn6aXtQ84WY-7J3Tpr2_j6sX0ch9yucS/view)) pretrained on the MS-Celeb-1M dataset.
