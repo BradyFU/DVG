@@ -2,7 +2,7 @@
 A [PyTorch](https://pytorch.org/) code of paper [Dual Variational Generation for Low Shot Heterogeneous Face Recognition](https://arxiv.org/pdf/1903.10203.pdf), written with [Xiang Wu](https://github.com/AlfredXiangWu).
 
 ## News
-The extension version of DVG is published in IEEE TPAMI 2021, and its code is released in https://github.com/BradyFU/DVG-Face.
+The extension version of DVG is published in IEEE TPAMI 2021 ([DVG-Face: Dual Variational Generation for Heterogeneous Face Recognition](https://arxiv.org/pdf/2009.09399.pdf)), and its code is released in https://github.com/BradyFU/DVG-Face.
 
 ## Prerequisites
 - Python 2.7
@@ -42,6 +42,13 @@ Rank-1 | VR@FAR=0.1% | VR@FAR=0.01%
 ## Citation
 If you use our code for your research, please cite the following paper:
 ```
+@article{fu2021dvg,
+  title={DVG-face: Dual variational generation for heterogeneous face recognition},
+  author={Fu, Chaoyou and Wu, Xiang and Hu, Yibo and Huang, Huaibo and He, Ran},
+  journal={IEEE TPAMI},
+  year={2021}
+}
+
 @inproceedings{fu2019dual,
   title={Dual Variational Generation for Low-Shot Heterogeneous Face Recognition},
   author={Fu, Chaoyou and Wu, Xiang and Hu, Yibo and Huang, Huaibo and He, Ran},
