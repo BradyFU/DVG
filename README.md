@@ -1,23 +1,23 @@
 # Dual Variational Generation for Low Shot HFR
-A PyTorch code of paper [Dual Variational Generation for Low Shot Heterogeneous Face Recognition](https://arxiv.org/pdf/1903.10203.pdf).
+A PyTorch code of paper [Dual Variational Generation for Low Shot Heterogeneous Face Recognition](https://proceedings.neurips.cc/paper/2019/file/b5a1fc2085986034e448d2ccc5bb9703-Paper.pdf).
 
 ## Our Heterogeneous Face Recognition Works
 
-**DVG-Face: Dual Variational Generation for Heterogeneous Face Recognition** 
+✨ [**DVG-Face: Dual Variational Generation for Heterogeneous Face Recognition**](https://arxiv.org/pdf/2009.09399.pdf)
 
-Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He. IEEE TPAMI 2021
+Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He. **IEEE TPAMI 2021**
 
-**Dual Variational Generation for Low Shot Heterogeneous Face Recognition** 
+✨ [**Dual Variational Generation for Low Shot Heterogeneous Face Recognition**](https://proceedings.neurips.cc/paper/2019/file/b5a1fc2085986034e448d2ccc5bb9703-Paper.pdf)
 
-Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He. NeurIPS 2019
+Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He. **NeurIPS 2019**
 
-**Towards Lightweight Pixel-Wise Hallucination for Heterogeneous Face Recognition** 
+✨ [**Towards Lightweight Pixel-Wise Hallucination for Heterogeneous Face Recognition**](https://ieeexplore.ieee.org/abstract/document/9971748)
 
-Chaoyou Fu, Xiaoqiang Zhou, Weizan He, Ran He. IEEE TPAMI 2022
+Chaoyou Fu, Xiaoqiang Zhou, Weizan He, Ran He. **IEEE TPAMI 2022**
 
-**Cross-Spectral Face Hallucination via Disentangling Independent Factors** 
+✨ [**Cross-Spectral Face Hallucination via Disentangling Independent Factors**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Cross-Spectral_Face_Hallucination_via_Disentangling_Independent_Factors_CVPR_2020_paper.pdf)
 
-Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He. CVPR 2020
+Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He. **CVPR 2020**
 
 
 ## News
