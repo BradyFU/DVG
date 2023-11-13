@@ -3,13 +3,17 @@ A PyTorch code of paper [Dual Variational Generation for Low Shot Heterogeneous 
 
 ## Our Heterogeneous Face Recognition Works
 
-**DVG-Face: Dual Variational Generation for Heterogeneous Face Recognition. IEEE TPAMI 2021** Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He.
+**DVG-Face: Dual Variational Generation for Heterogeneous Face Recognition** 
+Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He. IEEE TPAMI 2021
 
-**Dual Variational Generation for Low Shot Heterogeneous Face Recognition. NeurIPS 2019** Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He.
+**Dual Variational Generation for Low Shot Heterogeneous Face Recognition** 
+Chaoyou Fu, Xiang Wu, Yibo Hu, Huaibo Huang, Ran He. NeurIPS 2019
 
-**Towards Lightweight Pixel-Wise Hallucination for Heterogeneous Face Recognition. IEEE TPAMI 2022** Chaoyou Fu, Xiaoqiang Zhou, Weizan He, Ran He.
+**Towards Lightweight Pixel-Wise Hallucination for Heterogeneous Face Recognition** 
+Chaoyou Fu, Xiaoqiang Zhou, Weizan He, Ran He. IEEE TPAMI 2022
 
-**Cross-Spectral Face Hallucination via Disentangling Independent Factors. CVPR 2020** Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He.
+**Cross-Spectral Face Hallucination via Disentangling Independent Factors** 
+Boyan Duan, Chaoyou Fu, Yi Li, Xingguang Song, Ran He. CVPR 2020
 
 
 ## News
